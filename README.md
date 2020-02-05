@@ -34,6 +34,14 @@ In order to run the test locally on your machine the following is needed:<br /> 
 - Under "System variables" search for the one called "Path", click on it and select "Edit"<br />
 - Click "Browse" and select the bin folder located in C:\Program Files\apache-maven-x.x.x, click "OK"
 
+### 3. Install Chrome driver
+
+- Check your Chrome browser version<br />
+- Go to [Chrome driver](https://chromedriver.chromium.org/)<br />
+- Download the chrome driver for your version of chrome<br />
+- Go to C:\Program Files and make a new folder called "drivers"<br />
+- Place the downloaded chrome driver into your newly created folder<br />
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
