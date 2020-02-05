@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AllTestsSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="PC SHOP Selenium TestNG Test(failed)" verbose="0">
+    <classes>
+      <class name="PcShopTests">
+        <methods>
+          <include name="setupTest"/>
+          <include name="teardownTest"/>
+          <include name="PcShopRegistrationTest"/>
+          <include name="PcShopLoginTest"/>
+          <include name="PcShopAddToBasketDeleteTest"/>
+        </methods>
+      </class> <!-- PcShopTests -->
+    </classes>
+  </test> <!-- PC SHOP Selenium TestNG Test(failed) -->
+</suite> <!-- Failed suite [AllTestsSuite] -->

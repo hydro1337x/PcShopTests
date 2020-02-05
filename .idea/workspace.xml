@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0286612-68c2-4b1e-91cc-b1095f093105" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLjHWut5nrszV8M8DmVxGCc2ML" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.PcShopTests">
+    <configuration name="C:/Users/HYDRO/IdeaProjects/TeamMediaWebsiteTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PcShopWebsiteTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcShopTests" type="TestNG" nameIsGenerated="true">
+      <module name="PcShopWebsiteTest" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PcShopTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcShopTests.PcShopLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PcShopWebsiteTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PcShopTests" />
+      <option name="METHOD_NAME" value="PcShopLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcShopTests.PcShopPickCategoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PcShopWebsiteTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PcShopTests" />
+      <option name="METHOD_NAME" value="PcShopPickCategoryTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcShopTests.PcShopRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PcShopWebsiteTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PcShopTests" />
+      <option name="METHOD_NAME" value="PcShopRegistrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PcShopTests.PcShopPickCategoryTest" />
+        <item itemvalue="TestNG.PcShopTests.PcShopLoginTest" />
+        <item itemvalue="TestNG.PcShopTests.PcShopRegistrationTest" />
+        <item itemvalue="TestNG.C:/Users/HYDRO/IdeaProjects/TeamMediaWebsiteTest/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0286612-68c2-4b1e-91cc-b1095f093105" name="Default Changelist" comment="" />
+      <created>1580832181317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580832181317</updated>
+      <workItem from="1580832184327" duration="17058000" />
+      <workItem from="1580856843180" duration="2406000" />
+      <workItem from="1580859285830" duration="610000" />
+      <workItem from="1580898608445" duration="437000" />
+      <workItem from="1580899100844" duration="398000" />
+      <workItem from="1580899517490" duration="792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="154" key="#TeamMediaTests" timestamp="1580832442965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="154" key="#TeamMediaTests/0.0.1920.1040@0.0.1920.1040" timestamp="1580832442965" />
+    <state x="362" y="126" width="1464" height="760" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580839336756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="126" width="1464" height="760" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580839336756" />
+    <state x="730" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580832349010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580832349010" />
+    <state width="1604" height="253" key="GridCell.Tab.0.bottom" timestamp="1580900419660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1604" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580900419660" />
+    <state width="1604" height="253" key="GridCell.Tab.0.center" timestamp="1580900419660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1604" height="253" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580900419660" />
+    <state width="1604" height="253" key="GridCell.Tab.0.left" timestamp="1580900419660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1604" height="253" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580900419660" />
+    <state width="1604" height="253" key="GridCell.Tab.0.right" timestamp="1580900419660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1604" height="253" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580900419660" />
+    <state x="662" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580899517388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580899517388" />
+    <state x="344" y="202" key="new project wizard" timestamp="1580832352791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="202" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580832352791" />
+  </component>
+</project>
