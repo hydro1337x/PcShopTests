@@ -8,7 +8,7 @@ In order to run the test locally on your machine the following is needed:<br /> 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)<br />
 [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br />
 [Maven](https://maven.apache.org/download.cgi)<br />
-[Chrome driver](https://chromedriver.chromium.org/)
+[Chrome driver](https://chromedriver.chromium.org/)<br />
 [GIT](https://git-scm.com/downloads)
 
 ## Installing
