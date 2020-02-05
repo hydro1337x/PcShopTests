@@ -18,17 +18,21 @@ In order to run the test locally on your machine the following is needed:<br />
 - Run the downloaded executable file and follow the instruction to complete the setup <br />
 - When the installation is complete, open IntelliJ IDEA and enable auto import for classes (a popup message should appear) <br />
 
-```
-Give the example
-```
+### 2. Install Java JDK
 
-And repeat
+- Go to [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br />
+- Run the downloaded executable file and follow the instruction to complete the setup <br />
 
-```
-until finished
-```
+### 3. Install Maven
 
-End with an example of getting some data out of the system or using it for a little demo
+- Go to [Maven](https://maven.apache.org/download.cgi)<br />
+- Download the binary zip archive<br />
+- Open the .zip archive and extract it into C:\Program Files<br />
+- Go to "This Computer", right click and select "Properties", a popup window will appear<br />
+- On the left side search for "Advanced system settings" and open it, another popup window will appear<br />
+- Look at the bottom of the window and open "Environment variables", a new popup window will appear<br />
+- Under "System variables" search for the one called "Path", click on it and select "Edit"<br />
+- Click "Browse" and select the bin folder located in C:\Program Files\apache-maven-x.x.x, click "OK"
 
 ## Running the tests
 
