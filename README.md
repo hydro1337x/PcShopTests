@@ -2,18 +2,21 @@
 
 This repository contains funcionality tests for the https://www.pcshop.hr/ website.
 
-### Prerequisites
+## Prerequisites
 
 In order to run the test locally on your machine the following is needed:<br />
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)<br />
 [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br />
-[Maven](https://maven.apache.org/download.cgi)
+[Maven](https://maven.apache.org/download.cgi)<br />
+[Chrome driver](https://chromedriver.chromium.org/)
 
-### Installing
+## Installing
 
-A step by step series of examples that tell you how to get a development env running
+### 1. Install IntelliJ IDEA
 
-Say what the step will be
+- Go to [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)<br />
+- Run the downloaded executable file and follow the instruction to complete the setup <br />
+- When the installation is complete, open IntelliJ IDEA and enable auto import for classes (a popup message should appear) <br />
 
 ```
 Give the example
