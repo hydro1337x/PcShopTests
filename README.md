@@ -48,21 +48,25 @@ In order to run the test locally on your machine the following is needed:<br /> 
 - Go to [GIT](https://git-scm.com/downloads)<br />
 - Run the downloaded executable file and follow the instruction to complete the setup <br />
 
-## Running the tests
+## Downloading the repository
 
-In order to run the tests clone the project to your Desktop or wherever you prefer.<br />
+In order to download the project clone the repository to your Desktop or wherever you prefer.<br />
 To do so right click on your prefered destination and chose "GIT Bash here", that will open a terminal.<br />
 Inside the terminal paste the following and press enter.<br />
 ```
 git clone https://github.com/hydro1337x/PcShopTests.git
 ```
 
-### Break down into end to end tests
+## Running the tests
 
-Explain what these tests test and why
-
+To run the tests open up IntelliJ IDEA and open the previously cloned project. <br />
+In the top right corner click the green triangle or simply press Shift + F10<br />
+<br />
+*Optionaly:<br />
+If you want to automatically generate test reports with the surfire plugin click on "Terminal" located on the bottom of IntelliJ IDEA<br />
+Inside the terminal paste the following:<br />
 ```
-Give an example
+mvn testš
 ```
 
 ### And coding style tests
