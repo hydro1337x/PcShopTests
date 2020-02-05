@@ -69,45 +69,24 @@ mvn test
 ```
 The reportes can be found inside your projects folder under "target\surefire-reports". Inside it, run index.html to view the reports.
 
-### And coding style tests
+## Test descriptions
 
-Explain what these tests test and why
+### Search Test
 
-```
-Give an example
-```
+Finds the search bar element, inside it a sequence of characters (search word) is inserted and the submit button is pressed. The sites opens a new instance of itself and a message label is displayed. If the text inside the message label is equeal to the search word the test passed.
 
-## Deployment
+### Add an item to the basket and delete it afterwards
 
-Add additional notes about how to deploy this on a live system
+Finds the tablet category and clicks on it, clicks on an item from the category, adds it to the basket, clicks on the basket to view its contents, remove element is pressed and a new instance of the site opens with a message label. If the message label text is equal to the default text it should display when a cart is empty the test passes.
 
-## Built With
+### Registration test
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Click on the registration button. A new instance of the site open with the registration form. All fields all filled up. The email is randomly generated so no changes need to be made by the tester to run the tests successfully. Submit button is pressed. The site automatically login the user in if the registration is complete and a sign out button appears. If the sign out button appears the test passes.
 
-## Contributing
+### Login test
+The login test will always run after the registration test is done since it uses the same email adress as the registration.
+Click on the login button. A new instance of the site open with the login form. Email and password fields are filled up. The email is randomly generated so no changes need to be made by the tester to run the tests successfully. Submit button is pressed. If the sign out button appears the test passes.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+### Pick category on mouse hover
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+Hover over a category, select a subcategory and click on it. A new instance of the site opens with a message label. If the message label text is equal to the text which is contained inside the subcategory the test passes.
