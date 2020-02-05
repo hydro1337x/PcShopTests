@@ -62,12 +62,12 @@ git clone https://github.com/hydro1337x/PcShopTests.git
 To run the tests open up IntelliJ IDEA and open the previously cloned project. <br />
 In the top right corner click the green triangle or simply press Shift + F10<br />
 <br />
-*Optionaly:<br />
-If you want to automatically generate test reports with the surfire plugin click on "Terminal" located on the bottom of IntelliJ IDEA<br />
-Inside the terminal paste the following:<br />
+**Optionaly:**<br />
+If you want to automatically generate test reports with the surfire plugin click on "Terminal" located on the bottom of IntelliJ IDEA. Inside the terminal paste the following:<br />
 ```
-mvn testš
+mvn test
 ```
+The reportes can be found inside your projects folder under "target\surefire-reports". Inside it, run index.html to view the reports.
 
 ### And coding style tests
 
