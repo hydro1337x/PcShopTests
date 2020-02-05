@@ -4,7 +4,7 @@ This repository contains funcionality tests for the https://www.pcshop.hr/ websi
 
 ## Prerequisites
 
-In order to run the test locally on your machine the following is needed:<br />
+In order to run the test locally on your machine the following is needed:<br /> <br />
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)<br />
 [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br />
 [Maven](https://maven.apache.org/download.cgi)<br />
