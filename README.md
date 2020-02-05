@@ -9,6 +9,7 @@ In order to run the test locally on your machine the following is needed:<br /> 
 [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br />
 [Maven](https://maven.apache.org/download.cgi)<br />
 [Chrome driver](https://chromedriver.chromium.org/)
+[GIT](https://git-scm.com/downloads)
 
 ## Installing
 
@@ -34,7 +35,7 @@ In order to run the test locally on your machine the following is needed:<br /> 
 - Under "System variables" search for the one called "Path", click on it and select "Edit"<br />
 - Click "Browse" and select the bin folder located in C:\Program Files\apache-maven-x.x.x, click "OK"
 
-### 3. Install Chrome driver
+### 4. Install Chrome driver
 
 - Check your Chrome browser version<br />
 - Go to [Chrome driver](https://chromedriver.chromium.org/)<br />
@@ -42,9 +43,19 @@ In order to run the test locally on your machine the following is needed:<br /> 
 - Go to C:\Program Files and make a new folder called "drivers"<br />
 - Place the downloaded chrome driver into your newly created folder<br />
 
+### 5. Install GIT
+
+- Go to [GIT](https://git-scm.com/downloads)<br />
+- Run the downloaded executable file and follow the instruction to complete the setup <br />
+
 ## Running the tests
 
-Explain how to run the automated tests for this system
+In order to run the tests clone the project to your Desktop or wherever you prefer.<br />
+To do so right click on your prefered destination and chose "GIT Bash here", that will open a terminal.<br />
+Inside the terminal paste the following and press enter.<br />
+```
+git clone https://github.com/hydro1337x/PcShopTests.git
+```
 
 ### Break down into end to end tests
 
